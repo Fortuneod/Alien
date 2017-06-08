@@ -13,7 +13,7 @@
       Simple HTML5 Game
   </description>
     
-  <icon src="images/sprite.png" width="75" height="75" density="mdpi" />
+  <icon src="images/sprites.png" width="75" height="75" density="mdpi" />
 
   <author href="http://gradenetnigeria.com" email="fortuneodesanya@gmail.com">
       Fortune Odesanya
